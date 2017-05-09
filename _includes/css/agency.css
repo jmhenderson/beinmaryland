@@ -10,7 +10,7 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
-.brand_logo { background-image: url(images/re_henderson_block.png)
+.brand_logo { background-image: url(img/re_henderson_block.png)
 }
 
 .text-muted {
