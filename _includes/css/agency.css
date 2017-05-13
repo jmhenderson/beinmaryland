@@ -279,6 +279,9 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    background: linear-gradient(
+                     rgba(20,20,20, .5), 
+                     rgba(20,20,20, .5));
 }
 
 header .intro-text {
