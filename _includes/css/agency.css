@@ -15,6 +15,8 @@ body {
 
 .blocklogo { background-image: url(/img/re_henderson_blockMD.png) }
 
+.quick_search { width: 200px; height: 450px}
+
 .text-muted {
     #{{ site.data.template.color.muted }};
 }
