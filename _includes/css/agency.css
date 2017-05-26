@@ -15,7 +15,7 @@ body {
 
 .blocklogo { background-image: url(beinmaryland/img/re_henderson_blockMD.png) }
 
-.quick_search { width: 200px; height: 450px}
+.quick_search { width: 280px; height: 450px}
 
 .text-muted {
     #{{ site.data.template.color.muted }};
