@@ -13,7 +13,7 @@ body {
 .brand_logo { background-image: url(/img/re_henderson_block.png)
 }
 
-.blocklogo { background-image: url({{ site.baseurl }}/img/re_henderson_blockMD.png); height: 300px; width:80%}
+.blocklogo { background-image: url('{{ site.baseurl }}/img/re_henderson_blockMD.png'); height: 300px; width:80%}
 
 .quick_search { width: 200px; height: 450px}
 
