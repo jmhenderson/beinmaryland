@@ -18,7 +18,7 @@ body {
 
     height: 300px; width:80%}
 
-.quick_search { width: 200px; height: 450px}
+.quick_search { width: 200px; height: 450px;padding-top: 40px;}
 
 .text-muted {
     #{{ site.data.template.color.muted }};
