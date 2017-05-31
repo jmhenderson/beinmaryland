@@ -15,7 +15,7 @@ body {
 
 .blocklogo { margin-bottom: 60px}
 
-.quick_search { width: 220px; height: 420px;margin-top: 80px; background-color: black}
+.quick_search { width: 220px; height: 420px;margin-top: 80px;}
 
 .text-muted {
     #{{ site.data.template.color.muted }};
